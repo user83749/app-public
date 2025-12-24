@@ -1,0 +1,11 @@
+version: 1.4.48
+files:
+  - url: TradeOS-1.4.48-arm64-mac.zip
+    sha512: o8+/Wci5s/GGNpC2+g8563yYcdD6n+5J6+EIe7Om1sjRU9S+iCifgXMCWvOIW5Oa7TRJttOmTnfDEHX0cPqCGw==
+    size: 126562612
+  - url: TradeOS-1.4.48-arm64.dmg
+    sha512: pm8a+3IK/2NgGa9RJphkmpVAV8LDQ95pr+zZUM4i6m1je+3xO2KJiggG/CtfcLMoyXldbRY2ODnfiCgphbjoew==
+    size: 133164822
+path: TradeOS-1.4.48-arm64-mac.zip
+sha512: o8+/Wci5s/GGNpC2+g8563yYcdD6n+5J6+EIe7Om1sjRU9S+iCifgXMCWvOIW5Oa7TRJttOmTnfDEHX0cPqCGw==
+releaseDate: '2025-12-24T21:08:47.716Z'
